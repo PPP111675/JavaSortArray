@@ -1,0 +1,4 @@
+public static String[] sortStrings(String[] array) {
+    Arrays.sort(array);
+    return array;
+}
